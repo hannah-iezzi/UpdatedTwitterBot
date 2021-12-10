@@ -1,0 +1,7 @@
+{
+	"origin": ["hello googlers! what happens when you search:  #first# is #pronoun# #second#  #third#?"],
+	"first": ["What", "How", "Who", "When", "Why"],
+	"pronoun": ["the", "her", "my", "a" ,"his"],
+	"second": ["famous person", "lamp", "laptop", "refrigerator", "blog post","book", "twitter", "instagram", "gift","dog", "class", "flowers", "Santa", 					"Starbucks","reception","client","chest","income","country","inflation","movie", "instance","climate","engineering","tooth","member","garbage","apartment","revenue","extent","reality","photo","session","maintenance","championship","music","situation","leader","analyst","meaning","quantity","scene","perception","funeral","story","assistance","priority","reception","method","obligation","sister","argument","hearing","potato"],
+	"third": ["and what does it mean","and why does it happen", "and how do you stop it", "and why", "and what if you ignore it", "how do you find that","", "","","",""]
+}
